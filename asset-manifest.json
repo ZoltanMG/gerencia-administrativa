@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gerencia-administrativa/static/css/main.cfd95715.css",
+    "main.js": "/gerencia-administrativa/static/js/main.982adc8d.js",
+    "index.html": "/gerencia-administrativa/index.html",
+    "main.cfd95715.css.map": "/gerencia-administrativa/static/css/main.cfd95715.css.map",
+    "main.982adc8d.js.map": "/gerencia-administrativa/static/js/main.982adc8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfd95715.css",
+    "static/js/main.982adc8d.js"
+  ]
+}
