@@ -1,0 +1,16 @@
+.main-standard {
+    background-color: white;
+    border-radius: 9px;
+    margin: 10px;
+    height: 96vh;
+    width: 80%;
+    padding: 30px 0px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);
+}
+
+.section-standard {
+    height: 100%;
+    width: 100%;
+    overflow: auto;
+    padding: 0px 30px;
+}

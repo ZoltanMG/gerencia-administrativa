@@ -4,3 +4,24 @@
   font-family: sans-serif;
   box-sizing: border-box;
 }
+
+body {
+  background-color: var(--color-fondo);
+}
+
+#root {
+  display: flex;
+}
+
+:root {
+  --color-primario: #2a2a2a;
+  --color-primario-tenue: #5f5f5f;
+  --color-contraste: #fff;
+  --color-fondo: #eee;
+  --color-texto: #252525;
+  --color-texto-tenue: #545454;
+  --color-texto-negativo: #ffffff;
+  --color-texto-negativo-tenue: #c5c5c5;
+  --color-delete-error: tomato;
+  --color-edit-cancel: #4786FF;
+}

@@ -1,0 +1,27 @@
+nav {
+    width: 20%;
+    min-width: 180px;
+    max-width: 400px;
+    background-color: var(--color-primario);
+    height: 100vh;
+    box-shadow: 3px 0px 10px rgba(0, 0, 0, 0.3);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.link-navbar {
+    color: var(--color-texto-negativo-tenue);
+    text-decoration: none;
+    padding: 10px 30px;
+    display: flex;
+    transition: 260ms;
+    font-size: 18px;
+    width: 100%;
+}
+
+.link-navbar:hover {
+    color: var(--color-texto-negativo);
+    background-color: var(--color-primario-tenue);
+    transition: 260ms;
+}
