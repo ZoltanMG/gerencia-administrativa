@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/gerencia-administrativa/static/css/main.734b9db1.css",
-    "main.js": "/gerencia-administrativa/static/js/main.226a61db.js",
+    "main.js": "/gerencia-administrativa/static/js/main.f6a4bedb.js",
     "index.html": "/gerencia-administrativa/index.html",
     "main.734b9db1.css.map": "/gerencia-administrativa/static/css/main.734b9db1.css.map",
-    "main.226a61db.js.map": "/gerencia-administrativa/static/js/main.226a61db.js.map"
+    "main.f6a4bedb.js.map": "/gerencia-administrativa/static/js/main.f6a4bedb.js.map"
   },
   "entrypoints": [
     "static/css/main.734b9db1.css",
-    "static/js/main.226a61db.js"
+    "static/js/main.f6a4bedb.js"
   ]
 }
